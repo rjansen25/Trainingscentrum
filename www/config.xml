@@ -4,12 +4,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.mediavision.shell"
-        version   = "1.0.4">
+        version   = "1.0.5">
 
-    <name>Shell TC</name>
+    <name>Shell VT</name>
 
     <description>
-       Shell trainingscentrum vraagsysteem
+       Shell Vraagsysteem Trainingscentrum
     </description>
 
     <author href="http://www.mediavision.nl" email="r.jansen@ecabo.nl">
